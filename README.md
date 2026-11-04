@@ -4,7 +4,7 @@ An interactive R Shiny application for annotating 96-well experimental plates wi
 
 ## Live Application
 
-*[Open 96x Plate Annotator](https://borellamatteo.shinyapps.io/96x-plate-annotator/)**
+**[Open 96x Plate Annotator](https://borellamatteo.shinyapps.io/96x-plate-annotator/)**
 
 ## Features
 
