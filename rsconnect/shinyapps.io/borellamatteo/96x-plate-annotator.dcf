@@ -1,0 +1,10 @@
+name: 96x-plate-annotator
+title:
+username: borellamatteo
+account: borellamatteo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18359477
+bundleId: 12778964
+url: https://borellamatteo.shinyapps.io/96x-plate-annotator/
+version: 1
