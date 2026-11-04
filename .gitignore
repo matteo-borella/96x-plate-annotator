@@ -15,5 +15,5 @@ Thumbs.db
 *.tmp
 *.log
 
-#the main app.R
-*.R
+# Keep Shiny source code private
+app.R
